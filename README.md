@@ -81,6 +81,8 @@ __double underscores__
 
 ~~cancelline~~
 
-![KakaoTalk_20210712_211447954](https://user images.githubusercontent.com/87311912/125739693-9f1bc0ef-ab09-4f5f-9c29-22e51073b4dd.jpg)
+![KakaoTalk_20210712_211447954](images.githubusercontent.com/87311912/125739693-9f1bc0ef-ab09-4f5f-9c29-22e51073b4dd.jpg)
+
+<img src="images.githubusercontent.com/87311912/125739693-9f1bc0ef-ab09-4f5f-9c29-22e51073b4dd.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Minseo"></img><br/>
 
 
