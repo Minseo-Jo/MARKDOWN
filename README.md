@@ -81,8 +81,9 @@ __double underscores__
 
 ~~cancelline~~
 
-![KakaoTalk_20210712_211447954](images.githubusercontent.com/87311912/125739693-9f1bc0ef-ab09-4f5f-9c29-22e51073b4dd.jpg)
+![RubberDuck](https://camo.githubusercontent.com/a123b2c6011765dd07b9b58e40599a0ba15336a9ddd082e85f704781c97baee2/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230)
 
-<img src="images.githubusercontent.com/87311912/125739693-9f1bc0ef-ab09-4f5f-9c29-22e51073b4dd.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Minseo"></img><br/>
+
+<img src="https://camo.githubusercontent.com/a123b2c6011765dd07b9b58e40599a0ba15336a9ddd082e85f704781c97baee2/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
